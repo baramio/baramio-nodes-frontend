@@ -6,3 +6,12 @@
   text-align: center;
   min-height: 100vh;
 }
+
+.word {
+  font-family: DejaVu Sans Mono, monospace;
+  color: white
+}
+
+body {
+  background-color: lightsteelblue;
+}
